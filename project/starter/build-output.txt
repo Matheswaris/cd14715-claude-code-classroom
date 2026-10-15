@@ -1,0 +1,4 @@
+
+> claude-multiagent-code-review-starter@1.0.0 build
+> tsc
+
