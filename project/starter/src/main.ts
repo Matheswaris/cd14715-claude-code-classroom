@@ -81,7 +81,7 @@ async function main(): Promise<void> {
     );
 
 const orchestrator = new CodeReviewOrchestrator({
-  timeoutMs: 300000
+  timeoutMs: 600000
 });
 
     const report = await orchestrator.reviewPullRequest(
